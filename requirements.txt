@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+matplotlib
+bcrypt
+reportlab
+google-generativeai
+python-dotenv
