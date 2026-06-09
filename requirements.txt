@@ -1,8 +1,8 @@
 streamlit
+openai
+python-dotenv
 pandas
 plotly
 matplotlib
 bcrypt
 reportlab
-google-generativeai
-python-dotenv
